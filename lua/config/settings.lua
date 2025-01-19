@@ -12,8 +12,5 @@ opt.undofile = true
 opt.clipboard="unnamedplus"
 opt.laststatus = 0
 
-vim.cmd("colorscheme gruvbox-flat")
-
--- escape from terminal
-vim.keymap.set('t', '<esc>', [[<C-\><C-n>]], opts)
-
+vim.g.mapleader = " "
+vim.g.maplocalleader = "\\"

@@ -1,3 +1,4 @@
-require("plugin")
-require("config")
-require("keys")
+require("config/settings")
+require("config/lazyconfig")
+require("config/keys")
+require("config/theme")

@@ -6,7 +6,7 @@ return {
     jedi_language_server = {},
     marksman = {},
     lua_ls = {},
-    textlsp = {},
+    texlab = {},
     eslint = {},
     html = {},
     cssls = {},

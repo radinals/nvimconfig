@@ -7,3 +7,6 @@ opt.showbreak = "+++"
 opt.colorcolumn = "80"
 vim.g.markdown_folding = 1
 opt.foldenable = false
+
+vim.g.mkdp_browser = "brave-browser"
+
